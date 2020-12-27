@@ -13,13 +13,11 @@ userRouter.get('/seed', expressAsyncHandler(async (req, res) => {
     res.send({ createdUsers });
 }))
 
-//creating router for sign>>>>>>>> use post
 userRouter.post('/signin', expressAsyncHandler(async (req, res) => {
 
-    // select user by email
+
     const user = await User.findOne({ email: req.body.email });
 
-    //check if user exist
     if (user) {
 
         // compare password from post with password from DB
@@ -48,7 +46,7 @@ userRouter.post('/signin', expressAsyncHandler(async (req, res) => {
 
 userRouter.post(
     '/register',
-    // create user in the database
+
     expressAsyncHandler(async (req, res) => {
 
         const user = new User({
@@ -57,14 +55,12 @@ userRouter.post(
             password: bcrypt.hashSync(req.body.password, 8)
         });
         const createdUser = await user.save();
-        //send back the user to browser
+
         res.send({
             _id: createdUser._id,
             name: createdUser.name,
             email: createdUser.email,
             isAdmin: createdUser.isAdmin,
-            // token for authenticate looged user
-            // npm i jsonwebtoken
             token: generateToken(createdUser)
         })
     })
