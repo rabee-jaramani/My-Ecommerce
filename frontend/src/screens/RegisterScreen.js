@@ -53,7 +53,7 @@ export default function RegisterScreen(props) {
                         : error}</MessageBox>
                 }
                 <div>
-                    <label htmlFor="name">Email name</label>
+                    <label htmlFor="name">User name</label>
                     <input
                         type="text"
                         id="name"
