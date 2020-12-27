@@ -27,6 +27,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.11.8",
     "mongose": "0.0.2-security",
+    "path": "^0.12.7",
     "react-icons": "^4.1.0",
     "react-paypal-button-v2": "^2.6.2"
   },
