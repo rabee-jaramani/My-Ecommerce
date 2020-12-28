@@ -21,6 +21,8 @@ body {
 
 /* Layout */
 .grid-container {
+  background: url("./back.jpg") no-repeat;
+  background-size: cover;
   display: grid;
   grid-template-areas:
     'header'
@@ -106,6 +108,7 @@ button.block {
 }
 .row.top {
   align-items: flex-start;
+  background-color: burlywood;
 }
 .col-1 {
   flex: 1 1 25rem;
@@ -204,23 +207,7 @@ img.large {
   margin-top: 0;
 }
 
-/* Dropdown */
-.dropdown {
-  display: inline-block;
-  position: relative;
-}
-.dropdown-content {
-  position: absolute;
-  display: none;
-  right: 0;
-  min-width: 12rem;
-  padding: 1rem;
-  z-index: 1;
-  background-color: #203040;
-  margin: 0;
-  margin-top: 0.4rem;
-  border-radius: 0.5rem;
-}
+
 /* .dropdown:hover .dropdown-content {
   display: block;
 } */
@@ -275,3 +262,4 @@ button.small {
 .table button {
   margin: 0 0.2rem;
 }
+
