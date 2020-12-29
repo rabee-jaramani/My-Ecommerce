@@ -14,6 +14,7 @@ import ProfileScreen from './screens/ProfileScreen';
 import PrivateRoute from './components/PrivateRoute';
 import Header from './components/Header';
 import Welcome from './components/Welcome'
+import About from './components/About';
 
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
           <Route path="/order/:id" component={OrderScreen}></Route>
           <Route path="/payment" component={PaymentMethodScreen}></Route>
           <Route path="/orderhistory" component={OrderHistoryScreen}></Route>
+          <Route path="/About" component={About}></Route>
           <PrivateRoute
             path="/profile"
             component={ProfileScreen}

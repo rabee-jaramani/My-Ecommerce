@@ -38,10 +38,7 @@ export default function StyledHeader() {
                         </a>
                     </li>
                     <li className='lii'>
-                        <a className="aa" href="/">About</a>
-                    </li>
-                    <li className='lii'>
-                        <a className="aa" href="/">Services</a>
+                        <a className="aa" href="/About">About</a>
                     </li>
                     <li className='lii'>
                         <a className="aa" href="/cart">
