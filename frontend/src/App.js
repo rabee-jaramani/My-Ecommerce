@@ -13,7 +13,7 @@ import OrderHistoryScreen from './screens/OrderHistoryScreen';
 import ProfileScreen from './screens/ProfileScreen';
 import PrivateRoute from './components/PrivateRoute';
 import Header from './components/Header';
-
+import Welcome from './components/Welcome'
 
 
 function App() {
@@ -22,10 +22,10 @@ function App() {
     
       <div className="grid-container">
         
-        <Header></Header>
-        
+      <Header></Header>
         <main className='body1'>
         
+        <Welcome></Welcome>
           <Route path="/cart/:id?" component={CartScreen}></Route>
           <Route path="/product/:id" component={ProductScreen}></Route>
           <Route path="/signin" component={SigninScreen}></Route>

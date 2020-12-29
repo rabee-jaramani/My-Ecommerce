@@ -11,6 +11,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #6d7c83;
+  background-image: url("./back.jpg");
 }
 .body1{
   margin-top: 50px;;
@@ -21,7 +22,7 @@ body {
 
 /* Layout */
 .grid-container {
-  background: url("./back.jpg");
+  height: 100%;
   /* background-size: cover; */
   display: grid;
   grid-template-areas:
@@ -30,8 +31,7 @@ body {
     'footer';
   grid-template-columns: 1fr;
   grid-template-rows: 5rem 1fr 5rem;
-  background-size: auto auto;
-  height: 100%;
+ 
 }
 
 main {
@@ -48,6 +48,7 @@ footer {
   text-align:center;
   position: fixed;
    left: 0;
+   padding-top: 10px;;
    width: 100%;
   
 }

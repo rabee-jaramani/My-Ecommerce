@@ -6,69 +6,191 @@ export default function Welcome() {
             <h1>
                 Welcome On E-Star Website...
                 </h1>
+            <br />
             <h2>
                 Sign in and enjoy the journey
-            </h2>
-            <h1>
+            </h2>   <h1>
                 Welcome On E-Star Website...
                 </h1>
+            <br />
             <h2>
                 Sign in and enjoy the journey
-            </h2>
-            <h1>
+            </h2>   <h1>
                 Welcome On E-Star Website...
                 </h1>
+            <br />
             <h2>
                 Sign in and enjoy the journey
-            </h2>
-            <h1>
+            </h2>   <h1>
                 Welcome On E-Star Website...
                 </h1>
+            <br />
             <h2>
                 Sign in and enjoy the journey
-            </h2>
-            <h1>
+            </h2>   <h1>
                 Welcome On E-Star Website...
                 </h1>
+            <br />
             <h2>
                 Sign in and enjoy the journey
-            </h2>
-            <h1>
+            </h2>   <h1>
                 Welcome On E-Star Website...
                 </h1>
+            <br />
             <h2>
                 Sign in and enjoy the journey
-            </h2>
-            <h1>
+            </h2>   <h1>
                 Welcome On E-Star Website...
                 </h1>
+            <br />
             <h2>
                 Sign in and enjoy the journey
-            </h2>
-            <h1>
+            </h2>   <h1>
                 Welcome On E-Star Website...
                 </h1>
+            <br />
             <h2>
                 Sign in and enjoy the journey
-            </h2>
-            <h1>
+            </h2>   <h1>
                 Welcome On E-Star Website...
                 </h1>
+            <br />
             <h2>
                 Sign in and enjoy the journey
-            </h2>
-            <h1>
+            </h2>   <h1>
                 Welcome On E-Star Website...
                 </h1>
+            <br />
             <h2>
                 Sign in and enjoy the journey
-            </h2>
-            <h1>
+            </h2>   <h1>
                 Welcome On E-Star Website...
                 </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
+            <h2>
+                Sign in and enjoy the journey
+            </h2>   <h1>
+                Welcome On E-Star Website...
+                </h1>
+            <br />
             <h2>
                 Sign in and enjoy the journey
             </h2>
+
 
         </div>
     )
