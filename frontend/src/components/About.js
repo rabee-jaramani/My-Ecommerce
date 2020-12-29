@@ -3,9 +3,9 @@ import React from 'react'
 export default function About() {
     return (
         <div className='welcome-div'>
-            <h1 className='about' style={{ fontSize: "3rem" }} >
+            <h1 className='about' style={{ fontSize: "1.8rem" }} >
                 Rabee Aljaramani -
-                Web developer :<br />
+                Web developer:<br />
 
                 <div className='about-div'>
                     <h1 className="aboutme">
@@ -19,7 +19,7 @@ export default function About() {
             </h1>
 
             <br />
-            <h1 className='about' style={{ fontSize: "3rem" }} >
+            <h1 className='about' style={{ fontSize: "1.8rem" }} >
                 Contact :
                     <br />
                 <div className='about-div'>
