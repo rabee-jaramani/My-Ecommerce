@@ -16,7 +16,7 @@ const data = {
   ],
   products: [
     {
-      name: 'Adidass Shirt',
+      name: 'Adidass Shirt New',
       category: 'Shirts',
       image: '/images/p1.jpg',
       price: 120,
@@ -27,7 +27,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Adidas Fit Shirt',
+      name: 'Adidas Fit Shirt New',
       category: 'Shirts',
       image: '/images/p2.jpg',
       price: 100,
@@ -35,10 +35,10 @@ const data = {
       brand: 'Adidas',
       rating: 4.0,
       numReviews: 10,
-      description: 'high quality product',
+      description: 'high quality product New',
     },
     {
-      name: 'Lacoste Free Shirt',
+      name: 'Lacoste Free Shirt New',
       category: 'Shirts',
       image: '/images/p3.jpg',
       price: 220,
@@ -49,7 +49,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Nike Slim Pant',
+      name: 'Nike Slim Pant New',
       category: 'Pants',
       image: '/images/p4.jpg',
       price: 78,
@@ -60,7 +60,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Puma Slim Pant',
+      name: 'Puma Slim Pant New',
       category: 'Pants',
       image: '/images/p5.jpg',
       price: 65,
@@ -71,7 +71,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Adidas Fit Pant',
+      name: 'Adidas Fit Pant New',
       category: 'Pants',
       image: '/images/p6.jpg',
       price: 139,
@@ -82,7 +82,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Adidass',
+      name: 'Adidass New',
       category: 'Shirts',
       image: '/images/p1.jpg',
       price: 120,
@@ -93,7 +93,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Fit Shirt',
+      name: 'Fit Shirt New',
       category: 'Shirts',
       image: '/images/p2.jpg',
       price: 100,
