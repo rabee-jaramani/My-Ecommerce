@@ -44,13 +44,15 @@ export default function StyledHeader() {
                         <a className="aa" href="/">Services</a>
                     </li>
                     <li className='lii'>
-                        <Link to="/cart" className="aa">
+                        <a className="aa" href="/cart">
+
                             Cart
                     <FaShoppingCart className='cart-icon'></FaShoppingCart>
                             {cartItems.length > 0 && (
                                 <span className="badge">{cartItems.length}</span>
                             )}
-                        </Link>
+
+                        </a>
                     </li>
                     <li className='lii'>
                         <div>
@@ -61,18 +63,21 @@ export default function StyledHeader() {
                                             {' '} </Link>
                                         <ul className='dropdown-content'>
                                             <li className='lii'>
-                                                <Link to="/profile" className='dropdown-link'>User Profile</Link>
+                                                <a href="/profile" className='dropdown-link aa'>User Profile</a>
                                             </li>
                                             <li className='lii'>
-                                                <Link to="/orderhistory" className='dropdown-link'>Order History</Link>
+                                                <a className="aa" href="/orderhistory" className='dropdown-link'>Order History</a>
                                             </li>
                                             <li className='lii'>
-                                                <Link to='/' onClick={signoutHandler} className='dropdown-link'>Sign Out </Link>
+                                                <a className="aa" href='/' onClick={signoutHandler} className='dropdown-link'>Sign Out </a>
                                             </li>
                                         </ul>
                                     </div>
-                                    : <Link to="/signin" className="aa" href='signin-div'>Sign In <FaSignInAlt className="signin-icon">
-                                    </FaSignInAlt></Link>
+                                    : <a className="aa" href="/signin">
+                                        Sign In <FaSignInAlt className="signin-icon">
+                                        </FaSignInAlt>
+
+                                    </a>
                             }
                         </div>
                     </li>

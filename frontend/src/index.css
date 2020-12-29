@@ -279,4 +279,9 @@ button.small {
 font-family: 'Yellowtail', cursive;
 font-size: 3rem;
 color: rgb(59, 56, 59);
+margin: 0;
+}
+.welcome-div{
+  margin: 0;
+  padding-top: 0;
 }
