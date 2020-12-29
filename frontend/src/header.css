@@ -171,9 +171,6 @@ header a {
     #checkk:checked ~ .ull {
       left: 0;
     }
-    .welcome-h1{
-      font-size: 3rem;
-    }
 
     .welcome-h1{
     font-size: 2.4rem;
@@ -181,6 +178,13 @@ header a {
     .about{
       font-size: 2rem !important;
     }
-
+  
+    .welcome-div{
+      padding-left: 10% !important;
+      width: 100%;
+    }
+.about-div{
+  width: 80%;
+}
   }
   /* //////////////////////////////////////////////////////////////////////////////// */

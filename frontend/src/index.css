@@ -285,4 +285,15 @@ font-weight: 5px;;
 .welcome-div{
   margin: 0;
   padding-top: 0;
+  width: 90%;
+  padding-left: 23% !important;
+}
+.about-div {
+  box-shadow: 0 0 5px 5px rgb(133, 133, 133) inset;
+  background-color: #acacac;
+  border-radius: 25px;
+  letter-spacing: 2.5px;
+  padding-left: 7px;;
+  line-height: 1.8;
+  width: 60%;
 }
