@@ -84,6 +84,7 @@ header a {
   nav {
     /* background:transparent; */
     background-color: #242424;
+    background-repeat: repeat-y;
     height: 80px;
     width: 100%;
   }
