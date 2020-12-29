@@ -1,5 +1,5 @@
 html {
-  font-size: 62.5%; /* 16px x 62.5 = 10px = 1rem */
+  font-size: 62.5%; 
   box-sizing: border-box;
 }
 body {
@@ -160,7 +160,7 @@ img.large {
   margin-bottom: 0.5rem;
 }
 .price {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   font-family: 'Vast Shadow', cursive;
   color: #20a020;
 }
