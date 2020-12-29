@@ -180,7 +180,8 @@ header a {
     }
   
     .welcome-div{
-      padding-left: 5% !important;
+     padding: 0 !important;
+     margin: 0 !important;
       width: 100%;
     }
 .about-div{
