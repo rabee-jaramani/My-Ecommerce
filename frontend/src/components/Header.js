@@ -23,7 +23,7 @@ export default function StyledHeader() {
             <nav className="navv">
                 <input type="checkbox" id="checkk" />
                 <label for="checkk" class="checkbtnn">
-                    <i class="fas fa-bars"></i>
+                    <i class="fa fa-bars"></i>
                 </label>
                 <label class="logo">
                     <Link className="brand" to="/">
