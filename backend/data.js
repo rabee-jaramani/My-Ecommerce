@@ -82,7 +82,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Adidass Shirt',
+      name: 'Adidass',
       category: 'Shirts',
       image: '/images/p1.jpg',
       price: 120,
@@ -93,7 +93,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Adidas Fit Shirt',
+      name: 'Fit Shirt',
       category: 'Shirts',
       image: '/images/p2.jpg',
       price: 100,
@@ -104,7 +104,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Lacoste Free Shirt',
+      name: 'Lacoste Shirt',
       category: 'Shirts',
       image: '/images/p3.jpg',
       price: 220,
@@ -115,7 +115,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Nike Slim Pant',
+      name: 'Slim Pant',
       category: 'Pants',
       image: '/images/p4.jpg',
       price: 78,
@@ -126,7 +126,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Puma Slim Pant',
+      name: 'Slim Pant Nike',
       category: 'Pants',
       image: '/images/p5.jpg',
       price: 65,
@@ -137,7 +137,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Adidas Fit Pant',
+      name: 'Adidas Pant',
       category: 'Pants',
       image: '/images/p6.jpg',
       price: 139,
@@ -148,7 +148,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Adidass Shirt',
+      name: 'Adidass brand Shirt',
       category: 'Shirts',
       image: '/images/p1.jpg',
       price: 120,
@@ -159,7 +159,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Adidas Fit Shirt',
+      name: 'Adidas Fit 2',
       category: 'Shirts',
       image: '/images/p2.jpg',
       price: 100,
@@ -170,7 +170,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Lacoste Free Shirt',
+      name: 'Lacoste Free Shirt 2',
       category: 'Shirts',
       image: '/images/p3.jpg',
       price: 220,
@@ -181,7 +181,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Nike Slim Pant',
+      name: 'Nike Slim Pant 2',
       category: 'Pants',
       image: '/images/p4.jpg',
       price: 78,
@@ -192,7 +192,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Puma Slim Pant',
+      name: 'Puma Slim Pant 2',
       category: 'Pants',
       image: '/images/p5.jpg',
       price: 65,
@@ -203,7 +203,7 @@ const data = {
       description: 'high quality product',
     },
     {
-      name: 'Adidas Fit Pant',
+      name: 'Adidas Fit Pant 2',
       category: 'Pants',
       image: '/images/p6.jpg',
       price: 139,
