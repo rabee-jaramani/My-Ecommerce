@@ -63,13 +63,13 @@ export default function StyledHeader() {
                                             {' '} </Link>
                                         <ul className='dropdown-content'>
                                             <li className='lii'>
-                                                <a href="/profile" className='dropdown-link aa'>User Profile</a>
+                                                <a href="/profile" className='dropdown-link'>My profile</a>
                                             </li>
                                             <li className='lii'>
-                                                <a className="aa" href="/orderhistory" className='dropdown-link'>Order History</a>
+                                                <a className="aa" href="/orderhistory" className='dropdown-link'>Order history</a>
                                             </li>
                                             <li className='lii'>
-                                                <a className="aa" href='/' onClick={signoutHandler} className='dropdown-link'>Sign Out </a>
+                                                <a className="aa" href='/' onClick={signoutHandler} className='dropdown-link'>Sign out </a>
                                             </li>
                                         </ul>
                                     </div>

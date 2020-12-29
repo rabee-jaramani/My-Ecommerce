@@ -152,6 +152,7 @@ header a {
       left: -100%;
       text-align: center;
       transition: all 0.5s;
+
     }
     nav .ull .lii {
       display: block;
@@ -160,6 +161,7 @@ header a {
     }
     nav .ull .lii a {
       font-size: 15px;
+      
     }
     a:hover,
     a.activee {
@@ -169,6 +171,8 @@ header a {
     #checkk:checked ~ .ull {
       left: 0;
     }
-   
+    .welcome-h1{
+      font-size: 3rem;
+    }
   }
   /* //////////////////////////////////////////////////////////////////////////////// */

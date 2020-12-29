@@ -276,10 +276,12 @@ button.small {
   background-color: #9c9c9c;
 }
 .welcome-h1{
-font-family: 'Yellowtail', cursive;
-font-size: 3rem;
-color: rgb(59, 56, 59);
+  font-family: 'La Belle Aurore', cursive;
+font-size: 4rem;
+color:#000000
+;
 margin: 0;
+font-weight: 5px;;
 }
 .welcome-div{
   margin: 0;
