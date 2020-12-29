@@ -3,7 +3,7 @@ import React from 'react'
 export default function Welcome() {
     return (
         <div className='welcome-div row center'>
-            <h1>
+            <h1 >
                 Welcome On E-Star Website...
                 </h1>
 

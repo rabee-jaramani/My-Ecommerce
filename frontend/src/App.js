@@ -40,10 +40,11 @@ function App() {
             component={ProfileScreen}
           ></PrivateRoute>
           <Route path="/" component={HomeScreen} exact></Route>
-          <footer>All right reserved
-    
-          </footer>
+       
         </main>
+        <footer>All right reserved
+    
+    </footer>
         
  
 
