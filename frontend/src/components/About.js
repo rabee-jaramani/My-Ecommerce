@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function About() {
     return (
-        <div className='welcome-div'>
+        <div className='welcome-div' >
             <h1 className='about' style={{ fontSize: "1.8rem" }} >
                 Rabee Aljaramani -
                 Web developer:<br />
