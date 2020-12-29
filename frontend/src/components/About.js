@@ -10,7 +10,7 @@ export default function About() {
                 Email address: rabeealjaramani@yahoo.com<br />
                 Nationality: Syrian<br />
                 Address : Dubai (United Arab Emirates)<br />
-                <h1 style={{ backgroundColor: "#FAEBD7", width: "70%", borderRadius: "1rem" }}>
+                <h1 className="aboutme" style={{ backgroundColor: "#FAEBD7", width: "70%", borderRadius: "1rem" }}>
                     First-rate Informatics Engineer with +9 years of experience offering outstanding support to users and companies
                     of various levels in different countries. Passionate about web development and seeking to grow in the role of a
                     web developer by using my React, HTML and CSS skills to deliver coding excellence. Ambitious problem solver
