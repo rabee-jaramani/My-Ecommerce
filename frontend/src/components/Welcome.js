@@ -4,7 +4,7 @@ export default function Welcome() {
     return (
         <div className='welcome-div row center'>
             <h1 className='welcome-h1' >
-                Welcome On E-Star Website...
+                We are not alon, but we are the best
                 </h1>
 
 
