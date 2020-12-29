@@ -36,6 +36,7 @@
   background-color: #3a3a3a;
   border-radius: 1rem;
 letter-spacing: 0.1rem;
+
 }
 
   .dropdown:hover .dropdown-content {
@@ -140,6 +141,7 @@ header a {
   @media (max-width: 858px) {
     .checkbtnn {
       display: block;
+      
     }
     .ull {
       position: fixed;
@@ -153,11 +155,11 @@ header a {
     }
     nav .ull .lii {
       display: block;
-      margin: 50px 0;
+      margin: 15px 0;
       line-height: 30px;
     }
     nav .ull .lii a {
-      font-size: 20px;
+      font-size: 15px;
     }
     a:hover,
     a.activee {
@@ -167,5 +169,6 @@ header a {
     #checkk:checked ~ .ull {
       left: 0;
     }
+   
   }
   /* //////////////////////////////////////////////////////////////////////////////// */
