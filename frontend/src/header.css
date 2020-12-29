@@ -33,7 +33,7 @@
   right: 1.5rem;
   min-width: 25rem;
   z-index: 1;
-  background-color: #720231;
+  background-color: #3a3a3a;
   border-radius: 1rem;
 letter-spacing: 0.1rem;
 }
@@ -62,7 +62,7 @@ letter-spacing: 0.1rem;
 }
 .logo-icon{
     font-size: 4rem;
-    color:rgb(252, 255, 101);
+    color:dodgerblue;
 }
 
 
@@ -162,7 +162,7 @@ header a {
     a:hover,
     a.activee {
       background: none;
-      color: #0082e6;
+      color: #fcf087;
     }
     #checkk:checked ~ .ull {
       left: 0;

@@ -43,7 +43,7 @@ function App() {
           <Route path="/" component={HomeScreen} exact></Route>
         </main>
         
-        <footer className="row center">All right reserved
+        <footer>All right reserved
     
         </footer>
 
